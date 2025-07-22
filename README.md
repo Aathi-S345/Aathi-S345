@@ -1,9 +1,9 @@
 #  Hey there! I'm Aathi S  
 
- Full Stack Developer | MERN Stack | Java | Python  
+ Full Stack Developer | Java | Python  
  Passionate about scalable web apps & mastering DSA  
- Currently learning: System Design, Next.js  
- Fun fact: I turn coffee into code ☕
+ Currently learning: System Design, MERN Stack  
+ 
 
 ---
 
